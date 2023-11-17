@@ -1,0 +1,26 @@
+.padre{
+    width: 1280px;
+    height: 800px;
+    background-color: aquamarine;
+    margin: 20px;
+    
+}
+.azul{
+    width: 1280px;
+    height: 100px;
+    background-color: blue;
+    border: 5px solid rgb(8, 8, 61);
+}
+.rojo{
+    width: 600px;
+    height: 150px;
+    background-color: red;
+    
+}
+
+.morado{
+    width: 1280px;
+    height: 200px;
+    background-color: blueviolet;
+    margin-top:400px;
+}
